@@ -2,7 +2,7 @@
   "name": "paper-icon-button",
   "private": true,
   "dependencies": {
-    "polymer": "Polymer/polymer#master",
-    "paper-button": "Polymer/paper-button#master"
+    "polymer": "Polymer/polymer#>=0.3.0  <1.0.0",
+    "paper-button": "Polymer/paper-button#>=0.3.0  <1.0.0"
   }
 }
